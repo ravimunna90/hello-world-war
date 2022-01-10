@@ -2,7 +2,7 @@
 <head>
 <title>Hello World!</title>
 	<br>
-	<h1> Welcome to Learndevops Morning batch <h1>
+	<h1> Welcome to Learndevops course <h1>
 		<br>
 		<h1> Ravi kumar created this page</h1>
 		
